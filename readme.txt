@@ -19,11 +19,11 @@ Fix Pending and Past-due Tasks for WooCommerce optimizes WooCommerce’s backgro
 
 By improving task execution and preventing delays, this plugin helps your store operate faster, smoother, and without interruptions—enhancing both performance and customer experience.
 
-See more via [this website](https://shieldclimb.com/free-woocommerce-plugin/fix-pending-and-past-due-tasks/).
+See more via [this website](https://shieldclimb.com/free-woocommerce-plugins/fix-pending-and-past-due-tasks/).
 
 == Installation ==
 
-1. Download our plugin from https://shieldclimb.com/free-woocommerce-plugin/fix-pending-and-past-due-tasks//
+1. Download our plugin from https://shieldclimb.com/free-woocommerce-plugins/fix-pending-and-past-due-tasks//
 2. At your WordPress admin, Go to Plugins > Add New Plugin > Upload Plugin > Choose File (Choose the file you downloaded just now) > Click Install
 3. Click Activate
 
