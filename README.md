@@ -1,6 +1,9 @@
 # ShieldClimb – Fix Pending and Past-due Tasks for WooCommerce
 
-![ShieldClimb Logo](https://shieldclimb.com/wp-content/uploads/2025/03/ShieldClimb-logo-with-name-500x200-1.png)
+<p align="left">
+  <img src="https://shieldclimb.com/wp-content/uploads/2025/03/ShieldClimb-logo-with-name-500x200-1.png" alt="Brand Logo" width="120"><br>
+  <img src="https://shieldclimb.com/wp-content/uploads/2025/03/Fix-Pending-and-Past-Due-Tasks-for-WooCommerce.png" alt="Product Logo" width="120">
+</p>
 
 [![WooCommerce Compatibility](https://img.shields.io/badge/WooCommerce-5.8+-blue)](https://woocommerce.com/)
 [![License](https://img.shields.io/badge/License-GPLv2%2B-blue)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
