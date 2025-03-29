@@ -3,7 +3,7 @@ Contributors: shieldclimb
 Donate link: https://shieldclimb.com/
 Tags: woocommerce scheduled tasks, fix pending tasks woocommerce, fix past due tasks woocommerce, increase woocommerce task execution, fix stuck orders woocommerce
 Requires at least: 5.8
-Tested up to: 6.7.2
+Tested up to: 6.7
 Stable tag: 1.0.0
 Requires PHP: 7.2
 WC requires at least: 5.8

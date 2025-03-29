@@ -7,7 +7,7 @@
  * Version: 1.0.0
  * Requires Plugins: woocommerce
  * Requires at least: 5.8
- * Tested up to: 6.7.2
+ * Tested up to: 6.7
  * WC requires at least: 5.8
  * WC tested up to: 9.7.1
  * Requires PHP: 7.2
@@ -21,8 +21,8 @@ if (!defined('ABSPATH')) {
     exit; // Exit if accessed directly.
 }
 
-add_filter('action_scheduler_queue_runner_concurrent_batches', 'increase_async_action_concurrent_batches');
-function increase_async_action_concurrent_batches($batches) {
+add_filter('action_scheduler_queue_runner_concurrent_batches', 'shieldclimb_async_action_concurrent_batches');
+function shieldclimb_async_action_concurrent_batches($batches) {
     return 3; // Adjust the number to increase concurrent batches
 }
 
