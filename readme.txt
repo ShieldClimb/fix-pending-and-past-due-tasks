@@ -4,10 +4,10 @@ Donate link: https://shieldclimb.com/
 Tags: woocommerce scheduled tasks, fix pending tasks woocommerce, fix past due tasks woocommerce, increase woocommerce task execution, fix stuck orders woocommerce
 Requires at least: 5.8
 Tested up to: 6.8
-Stable tag: 1.0.1
+Stable tag: 1.0.2
 Requires PHP: 7.2
 WC requires at least: 5.8
-WC tested up to: 9.8.1
+WC tested up to: 10.0.2
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/old-licenses/gpl-2.0.html
 
@@ -23,16 +23,21 @@ See more via [this website](https://shieldclimb.com/free-woocommerce-plugins/fix
 
 == Installation ==
 
-1. Download our plugin from https://shieldclimb.com/free-woocommerce-plugins/fix-pending-and-past-due-tasks//
+1. Download our plugin from https://shieldclimb.com/free-woocommerce-plugins/fix-pending-and-past-due-tasks/
 2. At your WordPress admin, Go to Plugins > Add New Plugin > Upload Plugin > Choose File (Choose the file you downloaded just now) > Click Install
 3. Click Activate
 
 == Screenshots ==
 
-1. screenshot-1.png
-2. screenshot-2.png
+1. Before using plugin
+2. After using plugin
 
 == ChangeLog ==
+
+= V1.0.2 =
+
+* **Improved**: Adjusted Action Scheduler settings for more efficient and stable task processing.
+* **Updated**: Tested up to WooCommerce 10.0.2 
 
 = V1.0.1 =
 

@@ -36,6 +36,11 @@ ShieldClimb's **[Fix Pending and Past-due Tasks](https://shieldclimb.com/free-wo
 
 ## 📜 Changelog
 
+### v1.0.2
+
+- Improved: Adjusted Action Scheduler settings for more efficient and stable task processing.
+- Updated: Tested up to WooCommerce 10.0.2 
+
 ### v1.0.1
 - Updated: Tested up to WordPress 6.8 and WooCommerce 9.8.1
 
