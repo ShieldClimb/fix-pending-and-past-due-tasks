@@ -4,12 +4,12 @@
  * Plugin Name: ShieldClimb – Fix Pending and Past-due Tasks for WooCommerce
  * Plugin URI: https://shieldclimb.com/free-woocommerce-plugins/fix-pending-and-past-due-tasks/
  * Description: Fix Pending and Past-due Tasks for WooCommerce – Speed up order processing, prevent stuck scheduled tasks, and optimize performance.
- * Version: 1.0.2
+ * Version: 1.0.3
  * Requires Plugins: woocommerce
  * Requires at least: 5.8
  * Tested up to: 6.8
  * WC requires at least: 5.8
- * WC tested up to: 10.0.2
+ * WC tested up to: 10.0.4
  * Requires PHP: 7.2
  * Author: shieldclimb.com
  * Author URI: https://shieldclimb.com/about-us/

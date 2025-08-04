@@ -16,6 +16,10 @@ ShieldClimb's **[Fix Pending and Past-due Tasks](https://shieldclimb.com/free-wo
 1. **Upload and Install**: Upload the plugin and install it in WordPress.
 2. **Activate**: Click activate.
 
+## 📺 Watch the Full Install and Setup Tutorial Here:
+
+[![How to Install and Setup the Plugin](https://img.youtube.com/vi/hOD4GO_Ryww/0.jpg)](https://www.youtube.com/watch?v=hOD4GO_Ryww)
+
 ## 🔥 Features
 
 - **[Increase Concurrent Task Execution](https://shieldclimb.com/free-woocommerce-plugins/fix-pending-and-past-due-tasks/)**: Allows multiple background tasks to run at the same time instead of queuing one by one.
@@ -35,6 +39,10 @@ ShieldClimb's **[Fix Pending and Past-due Tasks](https://shieldclimb.com/free-wo
 ![After](https://shieldclimb.com/wp-content/uploads/2025/03/screenshot-2-1.png)
 
 ## 📜 Changelog
+
+### v1.0.3
+
+- Updated: Tested up to WooCommerce 10.0.4, Readme and metadata updates.
 
 ### v1.0.2
 
